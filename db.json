@@ -1,4 +1,5 @@
-[{
+{
+  "equipos":[{
         "userId": 1,
         "id": 1,
         "title": "FC Barcelona",
@@ -22,7 +23,6 @@
         "title": "Madrid",
         "body": "dewedwe"
     }
+]}
 
 
-
-]
