@@ -2,25 +2,25 @@
   "equipos":[{
         "userId": 1,
         "id": 1,
-        "title": "FC Barcelona",
-        "body": "El Fútbol Club Barcelona (en catalán, Futbol Club Barcelona), conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903. Es uno de los cuatro clubes profesionales de España junto a Real Madrid Club de Fútbol, Athletic Club y Club Atlético Osasuna que no es sociedad anónima deportiva (S. A. D.), de manera que la propiedad del club recae en sus socios",
-        "direccion": "https://www.fcbarcelona.es/es/",
+        "title": "Nombre: FC Barcelona",
+        "body": "Historia: El Fútbol Club Barcelona (en catalán, Futbol Club Barcelona), conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903. Es uno de los cuatro clubes profesionales de España junto a Real Madrid Club de Fútbol, Athletic Club y Club Atlético Osasuna que no es sociedad anónima deportiva (S. A. D.), de manera que la propiedad del club recae en sus socios",
+        "direccion": "Pagina Web: https://www.fcbarcelona.es/es/",
     "telefono": "578234791"
     },
    {
         "userId": 1,
         "id": 2,
-        "title": "Betis",
-       "body": "El Real Betis Balompié, también conocido como Real Betis. Es una entidad polideportiva con sede en Sevilla, España. Fue fundada en septiembre de 1908 para la práctica del fútbol aunque sus orígenes datan de 1907 y así consta como fecha fundacional por el propio club, y oficialmente registrada el 1 de febrero de 1909",
-     "direccion": "https://www.fcbarcelona.es/es/",
+        "title": "Nombre: Betis",
+       "body": "Historia: El Real Betis Balompié, también conocido como Real Betis. Es una entidad polideportiva con sede en Sevilla, España. Fue fundada en septiembre de 1908 para la práctica del fútbol aunque sus orígenes datan de 1907 y así consta como fecha fundacional por el propio club, y oficialmente registrada el 1 de febrero de 1909",
+     "direccion": "Pagina Web: https://www.fcbarcelona.es/es/",
      "telefono": "765859320"
     },
    {
         "userId": 1,
         "id": 3,
-        "title": "Sevilla",
-        "body": "El Sevilla Fútbol Club es un club de fútbol español organizado como sociedad anónima deportiva. Tiene su sede en Sevilla, capital de la comunidad autónoma de Andalucía, y actualmente juega en Primera División. Fue fundado el 25 de enero de 18906​7​ y su primer presidente fue el vice-cónsul británico Edward Farquharson Johnston. 8​ Posteriormente fue inscrito en el registro de asociaciones el 14 de octubre de 1905, siendo su presidente el jerezano José Luis Gallegos Arnosa.",
-     "direccion": "https://www.fcbarcelona.es/es/",
+        "title": "Nombre: Sevilla",
+        "body": "Historia: El Sevilla Fútbol Club es un club de fútbol español organizado como sociedad anónima deportiva. Tiene su sede en Sevilla, capital de la comunidad autónoma de Andalucía, y actualmente juega en Primera División. Fue fundado el 25 de enero de 18906​7​ y su primer presidente fue el vice-cónsul británico Edward Farquharson Johnston. 8​ Posteriormente fue inscrito en el registro de asociaciones el 14 de octubre de 1905, siendo su presidente el jerezano José Luis Gallegos Arnosa.",
+     "direccion": "Pagina Web: https://www.fcbarcelona.es/es/",
      "telefono": "684958372"
     }
    
