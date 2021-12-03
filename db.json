@@ -2,32 +2,32 @@
   "equipos":[{
         "userId": 1,
         "id": 1,
-        "titulo": "FC Barcelona",
-        "informacion": "https://www.youtube.com/user/fcbarcelona",
+        "title": "FC Barcelona",
+        "body": "https://www.youtube.com/user/fcbarcelona",
         "direccion": "https://www.fcbarcelona.es/es/",
     "telefono": "765859320"
     },
    {
         "userId": 1,
         "id": 2,
-        "titulo": "Betis",
-       "informacion": "https://www.youtube.com/user/realbetisoficial",
+        "title": "Betis",
+       "body": "https://www.youtube.com/user/realbetisoficial",
      "direccion": "https://www.fcbarcelona.es/es/",
      "telefono": "765859320"
     },
    {
         "userId": 1,
         "id": 3,
-        "titulo": "Sevilla",
-        "informacion": "https://www.youtube.com/user/SEVILLAFC",
+        "title": "Sevilla",
+        "body": "https://www.youtube.com/user/SEVILLAFC",
      "direccion": "https://www.fcbarcelona.es/es/",
      "telefono": "765859320"
     },
     {
         "userId": 1,
         "id": 4,
-        "titulo": "Madrid",
-        "informacion": "https://www.youtube.com/c/realmadrid",
+        "title": "Madrid",
+        "body": "https://www.youtube.com/c/realmadrid",
       "direccion": "https://www.fcbarcelona.es/es/",
       "telefono": "765859320"
     }
