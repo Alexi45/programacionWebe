@@ -3,25 +3,33 @@
         "userId": 1,
         "id": 1,
         "title": "FC Barcelona",
-        "body": "https://www.youtube.com/user/fcbarcelona"
+        "body": "https://www.youtube.com/user/fcbarcelona",
+        "direccion": "https://www.fcbarcelona.es/es/",
+    "telefono": "765859320"
     },
    {
         "userId": 1,
         "id": 2,
         "title": "Betis",
-       "body": "https://www.youtube.com/user/realbetisoficial"
+       "body": "https://www.youtube.com/user/realbetisoficial",
+     "direccion": "https://www.fcbarcelona.es/es/",
+     "telefono": "765859320"
     },
    {
         "userId": 1,
         "id": 3,
         "title": "Sevilla",
-        "body": "https://www.youtube.com/user/SEVILLAFC"
+        "body": "https://www.youtube.com/user/SEVILLAFC",
+     "direccion": "https://www.fcbarcelona.es/es/",
+     "telefono": "765859320"
     },
     {
         "userId": 1,
         "id": 4,
         "title": "Madrid",
-        "body": "https://www.youtube.com/c/realmadrid"
+        "body": "https://www.youtube.com/c/realmadrid",
+      "direccion": "https://www.fcbarcelona.es/es/",
+      "telefono": "765859320"
     }
 ]}
 
